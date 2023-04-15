@@ -1,3 +1,4 @@
 data3.rar filter=lfs diff=lfs merge=lfs -text
 trainResumes filter=lfs diff=lfs merge=lfs -text
 testResumes filter=lfs diff=lfs merge=lfs -text
+CVidea1 filter=lfs diff=lfs merge=lfs -text
